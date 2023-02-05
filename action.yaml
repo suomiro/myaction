@@ -1,0 +1,8 @@
+name: suomiro ation
+description: The action from learning course
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+ branding:
+  icon: 'crop'
+  color: 'blue'
