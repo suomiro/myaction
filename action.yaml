@@ -3,6 +3,6 @@ description: The action from learning course
 runs:
   using: 'docker'
   image: 'Dockerfile'
- branding:
+branding:
   icon: 'crop'
   color: 'blue'
